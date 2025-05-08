@@ -1,14 +1,11 @@
-import ToDoWrapper from "./components/ToDoWrapper/ToDoWrapper"
+import ToDoWrapper from "./components/ToDoWrapper/ToDoWrapper";
 
 function App() {
-  
-
-
   return (
-   <div className="App">
-    <ToDoWrapper/>
-   </div>
-  )
+    <div className="App">
+      <ToDoWrapper />
+    </div>
+  );
 }
 
-export default App
+export default App;
